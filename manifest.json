@@ -11,5 +11,8 @@
   "permissions": [
     "activeTab",
     "storage"
-  ]
+  ],
+  "background" : {
+    "scripts" : ["scripts/background.js"]
+  }
 }
