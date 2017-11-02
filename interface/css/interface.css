@@ -1,0 +1,4 @@
+html,body{padding:0px;margin:0px;}
+
+weather-app,weather-nav,weather-content,weather-tab-content{width:100%;float:left;}
+weather-nav{padding:10px;}
